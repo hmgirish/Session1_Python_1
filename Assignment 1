@@ -1,5 +1,7 @@
 1. Install Jupyter notebook and run the first program and share the screenshot of the output.
 
+Solution:
+
 import numpy as np
 np.random.seed(0)
 x1 = np.random.randint(10, size=6)
